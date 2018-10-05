@@ -1,7 +1,17 @@
 <resources>
     <string name="app_name">mukhan-Feelsbook</string>
+    <string name="info_activity_label">mukhan-Feelsbook-Emotion Info</string>
+    <string name="edit_activity_label">mukhan-Feelsbook-Update Info</string>
     <string name="button_text">Insert</string>
     <string name="comment_hint">Optional Comment</string>
+    <string name="surprise">Surprise</string>
+    <string name="sadness">Sadness</string>
+    <string name="love">Love</string>
+    <string name="joy">Joy</string>
+    <string name="fear">Fear</string>
+    <string name="anger">Anger</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
     <string-array name="emotions_array">
         <item>Anger</item>
         <item>Fear</item>
